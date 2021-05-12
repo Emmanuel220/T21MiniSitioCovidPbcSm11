@@ -1,0 +1,26 @@
+h1{
+	font-size: 60px;
+	font-family: Comic Sans Ms;
+	background: #ffc288;
+
+}
+
+h2{
+	font-size: 40px;
+}
+body{
+	background: #f5f7b2;
+}
+li{
+	font-size: 40px;
+	font-family: Geneva;
+
+}
+p{
+	font-size: 35px;
+	font-family: Geneva;
+}
+
+a{
+	font-size: 45px;
+}
